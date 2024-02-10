@@ -1,6 +1,6 @@
 ## 📑 Bot Commands
 
-- [x] It will be released soon...
+- [ ] It will be released soon...
 
 
 
